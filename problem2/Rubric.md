@@ -1,0 +1,1 @@
+== 2. Scrie un program care sa afiseze INTECH daca un cuvant dat de la tastatura incepe tu I , daca se termina cu D sa afiseze DYNAMICS, iar daca le contine pe amandoua sa afiseze INTECH DYNAMICS . ==
