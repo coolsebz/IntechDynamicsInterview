@@ -4,7 +4,6 @@ def removeLetters(letterList, toRemoveList):
 
     for i, currentChar in enumerate(newList):
         for charToRemove in toRemoveList:
-            # we still want the spaces
             if charToRemove is currentChar:
                 # cannot actually delete the element, since we depend on the iterator
                 newList[i] = ""
